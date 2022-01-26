@@ -596,6 +596,8 @@ module.exports = {
   代理报表: "Agent report",
   佣金报表: "Commission report",
   帐变记录: "Account change record",
+  帐变前累积结余: "Accumulated balance before account change",
+  帐变后累积结余: "Accumulated balance after account change",
   会员列表: "Member list",
   会员开户: "Member account opening",
   银行卡管理: "Bank card management",
@@ -6749,4 +6751,8 @@ module.exports = {
   "8-12位字符，由数字、字母、符号组成": "8-12 characters, composed of numbers, letters and symbols",
   '剩余时间：': 'Time left: {0}s',
   '中奖金额：': 'Winning: ¥{0}',
+  '存款到账通知、取款到账通知、红利发放': 'Notification of Deposit Arrival、Notice of withdrawal to account、dividends',
+  '域名更换通知、密码修改通知、异地登录通知': 'Domain name change notice、Password change Pass、Remote Login Notification',
+  '预计最高收益(元)': 'Expected maximum return (RMB)',
+  '优惠活动通知': 'Promotion notice'
 };
